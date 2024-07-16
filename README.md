@@ -1,4 +1,4 @@
-# Game Pong
+# Game Snake
 
 # Game Interface
 
